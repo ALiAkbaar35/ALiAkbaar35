@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ALiAkbaar35
+- 👀 I’m interested in: MERN stack development, web technologies, and software engineering.
+- 🌱 I’m currently learning: Advanced React features and server-side scripting with Node.js.
+- 💞️ I’m looking to collaborate on: Open source projects related to web development or anything innovative!
+- 📫 How to reach me: [Whatsapp:+92-305-4442780 OR aliakbaar35@gmail.com ]
+- 😄 Pronouns: [He]
